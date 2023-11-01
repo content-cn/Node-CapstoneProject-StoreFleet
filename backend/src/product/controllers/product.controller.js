@@ -1,7 +1,6 @@
 // Please don't change the pre-written code
 // Import the necessary modules here
 
-import { Apifeatures } from "../../../utils/apiFeatures.js";
 import { ErrorHandler } from "../../../utils/errorHandler.js";
 import {
   addNewProductRepo,
